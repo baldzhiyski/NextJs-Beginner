@@ -3,7 +3,7 @@ import React from 'react'
 const AddToCart = () => {
   return (
     <div>
-      <button>Add To Cart</button>
+      <button className='btn btn-primary'>Add To Cart</button>
     </div>
   )
 }
